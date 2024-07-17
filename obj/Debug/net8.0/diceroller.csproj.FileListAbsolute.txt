@@ -1,0 +1,15 @@
+/Users/arcticlime/Documents/GitHub/diceroller/bin/Debug/net8.0/diceroller
+/Users/arcticlime/Documents/GitHub/diceroller/bin/Debug/net8.0/diceroller.deps.json
+/Users/arcticlime/Documents/GitHub/diceroller/bin/Debug/net8.0/diceroller.runtimeconfig.json
+/Users/arcticlime/Documents/GitHub/diceroller/bin/Debug/net8.0/diceroller.dll
+/Users/arcticlime/Documents/GitHub/diceroller/bin/Debug/net8.0/diceroller.pdb
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.AssemblyInfoInputs.cache
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.AssemblyInfo.cs
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.csproj.CoreCompileInputs.cache
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.sourcelink.json
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.dll
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/refint/diceroller.dll
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.pdb
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/diceroller.genruntimeconfig.cache
+/Users/arcticlime/Documents/GitHub/diceroller/obj/Debug/net8.0/ref/diceroller.dll
