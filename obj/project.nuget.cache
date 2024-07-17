@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RG30YQPPBKQ=",
+  "dgSpecHash": "uAoAo4o1YpU=",
   "success": true,
   "projectFilePath": "/Users/arcticlime/Documents/GitHub/diceroller/diceroller.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/arcticlime/.nuget/packages/microsoft.netcore.app.runtime.linux-arm64/8.0.6/microsoft.netcore.app.runtime.linux-arm64.8.0.6.nupkg.sha512",
+    "/Users/arcticlime/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-arm64/8.0.6/microsoft.aspnetcore.app.runtime.linux-arm64.8.0.6.nupkg.sha512",
+    "/Users/arcticlime/.nuget/packages/microsoft.netcore.app.host.linux-arm64/8.0.6/microsoft.netcore.app.host.linux-arm64.8.0.6.nupkg.sha512"
+  ],
   "logs": []
 }
